@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oneuroin.github.io/sitemap.html.gz
+Sitemap: https://oneuroin.github.io/app/sitemap.html.gz
+Sitemap: https://oneuroin.github.io/assets/sitemap.html.gz
+Sitemap: https://oneuroin.github.io/css/sitemap.html.gz
+Sitemap: https://oneuroin.github.io/includes/sitemap.html.gz
+Sitemap: https://oneuroin.github.io/item/sitemap.html.gz
+Sitemap: https://oneuroin.github.io/src/sitemap.html.gz
